@@ -1,7 +1,7 @@
 # Applied-Data-Science-Loan-Prediction-
 Loan Prediction Techniques
 
-## Loan Default Prediction
+# Loan Default Prediction
 ## Problem Definition
 ## The Context:
 In the contemporary landscape of retail banking, a significant proportion of profits stems from interest accrued through home loans, primarily extended to customers with regular or high income. However, the specter of loan defaulters poses a considerable threat to banks, as non-performing assets (NPAs) can substantially erode profits. Therefore, the approval process for these loans is a multifaceted challenge, traditionally relying on manual assessments of applicants' creditworthiness. Yet, this approach is not only labor-intensive but also susceptible to human errors and biases.
